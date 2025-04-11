@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hey there! I'm a Tech Enthusiast & Beginner Developer
 
-<!--
-**Biraj021/Biraj021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I Know So Far:
+🔹 Basics of C and C++ – Solid foundation in logic and problem-solving
+🔹 Familiar with HTML and CSS – Creating clean and simple web layouts
 
-Here are some ideas to get you started:
+🎬 Exploring the Creative Side Too:
+🎞 Learning Video Editing – Crafting stories through visuals
+🛠 Tools like Adobe Premiere Pro / CapCut / DaVinci Resolve (depending on what you use)
+🎨 Working on improving transitions, color grading, and sound syncing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack I'm Exploring:
+🖥 VS Code
+🔗 Git & GitHub
+🎛 Video editing software
+📁 Organizing projects like a pro
+
+📈 Current Focus:
+🎥 Creating short-form content and simple edits
+💻 Strengthening my coding fundamentals
+🚀 Experimenting with both tech and creative tools
+
+🎯 Goals:
+🌱 Grow as both a developer and digital creator
+🤝 Collaborate with others on cool projects
+🧠 Keep learning and building every day
+
+📬 Let’s connect and create something awesome together!
