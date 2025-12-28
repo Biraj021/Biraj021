@@ -1,28 +1,36 @@
-👋 Hey there! I'm a Tech Enthusiast & Beginner Developer
+# Hi 👋, I'm Biraj Acherjee
 
-💻 What I Know So Far:
-🔹 Basics of C and C++ – Solid foundation in logic and problem-solving
-🔹 Familiar with HTML and CSS – Creating clean and simple web layouts
+🎓 Electronics & Communication Engineering (ECE) student  
+💻 Learning Data Structures & Algorithms using C++  
+🔥 Practicing LeetCode daily  
+⚡ Interested in Core Electronics & Software Development  
 
-🎬 Exploring the Creative Side Too:
-🎞 Learning Video Editing – Crafting stories through visuals
-🛠 Tools like Adobe Premiere Pro / CapCut / DaVinci Resolve (depending on what you use)
-🎨 Working on improving transitions, color grading, and sound syncing
+---
 
-🧰 Tech Stack I'm Exploring:
-🖥 VS Code
-🔗 Git & GitHub
-🎛 Video editing software
-📁 Organizing projects like a pro
+## 🛠️ Skills
+- C++
+- C
+- Python
+- NumPy
+- Pandas
+- Data Structures & Algorithms
+- Basics of Electronics
+- Problem Solving
 
-📈 Current Focus:
-🎥 Creating short-form content and simple edits
-💻 Strengthening my coding fundamentals
-🚀 Experimenting with both tech and creative tools
+---
 
-🎯 Goals:
-🌱 Grow as both a developer and digital creator
-🤝 Collaborate with others on cool projects
-🧠 Keep learning and building every day
+## 📈 What I'm Doing Now
+- Solving DSA problems on LeetCode
+- Improving logic and consistency
+- Learning core CS and ECE concepts
 
-📬 Let’s connect and create something awesome together!
+---
+
+## 🌐 Profiles
+- LeetCode: https://leetcode.com/
+- GitHub: https://github.com/Biraj021
+
+---
+
+## ✨ Goal
+To become a strong engineer with excellent problem-solving skills 🚀
