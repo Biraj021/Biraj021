@@ -29,6 +29,7 @@
 ## 🌐 Profiles
 - LeetCode: https://leetcode.com/
 - GitHub: https://github.com/Biraj021
+- LinkedIn: www.linkedin.com/in/birajacherjee
 
 ---
 
