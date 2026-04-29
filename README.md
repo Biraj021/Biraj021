@@ -1,37 +1,122 @@
-# Hi 👋, I'm Biraj Acherjee
+<!-- GitHub Profile README for Biraj Acherjee -->
 
-🎓 Electronics & Communication Engineering (ECE) student  
-💻 Learning Data Structures & Algorithms using C++  
-🔥 Practicing LeetCode daily  
-⚡ Interested in Core Electronics & Software Development  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20there%20👋%20I'm%20Biraj-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech%20ECE%20Student-1E293B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Explorer-A855F7?style=for-the-badge"/>
+</p>
 
-## 🛠️ Skills
-- C++
-- C
-- Python
-- NumPy
-- Pandas
-- Data Structures & Algorithms
-- Basics of Electronics
-- Problem Solving
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Biraj!;ECE+Student+%7C+AI+Builder;Hackathon+Enthusiast+%F0%9F%9A%80;Code.+Build.+Win." />
+</p>
 
 ---
 
-## 📈 What I'm Doing Now
-- Solving DSA problems on LeetCode
-- Improving logic and consistency
-- Learning core CS and ECE concepts
+### 👨‍💻 About Me
+
+- 🎓 B.Tech **Electronics & Communication Engineering** student  
+- 💻 Currently learning **JavaScript, OOP, and Full Stack Development**  
+- 🤖 Interested in **AI, Machine Learning & Real-world Projects**  
+- 🏆 Actively participating in **Hackathons & building impactful solutions**  
+- 🚀 Goal: Get internships + build **high-impact AI projects**
 
 ---
 
-## 🌐 Profiles
-- LeetCode: https://leetcode.com/
-- GitHub: https://github.com/Biraj021
-- LinkedIn: www.linkedin.com/in/birajacherjee
+### 🚀 Featured Project
+
+#### 🏥 Emergency Healthcare Finder (Ongoing)
+
+> AI-powered emergency response system  
+> - 🚑 Finds nearest hospitals using live location  
+> - 🧠 Smart routing & condition-based prioritization  
+> - 📍 Integrated with Maps & APIs  
+> - 🆘 SOS feature for emergencies  
 
 ---
 
-## ✨ Goal
-To become a strong engineer with excellent problem-solving skills 🚀
+### 💼 Projects Showcase
+
+| Project | Description |
+|--------|-------------|
+| **Emergency Healthcare Finder** | AI-based emergency system with real-time hospital search |
+| **Disease Prediction App** | ML app predicting diseases using user data |
+| **Moodify (Inspired)** | Mood-based recommendation system |
+| **Future Goal** | Build advanced **AI + IoT integrated systems** |
+
+---
+
+### 🧠 Currently Learning
+
+- 📌 Data Structures & Algorithms (DSA)
+- 📌 JavaScript (Advanced Concepts)
+- 📌 React & Full Stack Development
+- 📌 AI / ML (TensorFlow, Keras, NumPy)
+
+---
+
+### 🧰 Tech Stack
+
+<table align="center">
+<tr>
+<th>Frontend</th>
+<th>Backend</th>
+<th>Database</th>
+<th>AI / ML</th>
+<th>Tools</th>
+</tr>
+
+<tr>
+<td align="center">
+HTML<br/>CSS<br/>JavaScript<br/>React<br/>Tailwind
+</td>
+
+<td align="center">
+Node.js<br/>Express<br/>Flask
+</td>
+
+<td align="center">
+MongoDB
+</td>
+
+<td align="center">
+NumPy<br/>TensorFlow<br/>Keras
+</td>
+
+<td align="center">
+Git<br/>GitHub<br/>VS Code
+</td>
+</tr>
+
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+### 🎯 2026 Goals
+
+- ✅ Crack a **top internship**
+- ✅ Build **1 strong AI project**
+- ✅ Master **DSA**
+- ✅ Win a **hackathon**
+
+---
+
+### ⚡ Fun Fact
+
+> I don’t just code… I build things that can actually help people 🚀
