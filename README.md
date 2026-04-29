@@ -27,25 +27,13 @@
 
 ---
 
-### 🚀 Featured Project
-
-#### 🏥 Emergency Healthcare Finder (Ongoing)
-
-> AI-powered emergency response system  
-> - 🚑 Finds nearest hospitals using live location  
-> - 🧠 Smart routing & condition-based prioritization  
-> - 📍 Integrated with Maps & APIs  
-> - 🆘 SOS feature for emergencies  
-
----
-
 ### 💼 Projects Showcase
 
 | Project | Description |
 |--------|-------------|
 | **Emergency Healthcare Finder** | AI-based emergency system with real-time hospital search |
-| **Disease Prediction App** | ML app predicting diseases using user data |
-| **Moodify (Inspired)** | Mood-based recommendation system |
+| **Smart Study Planner** | A Python & Streamlit app for planning, tracking, and improving study efficiency |
+| **Banking System** | Developed using OOP principles with features like account management, deposits, withdrawals, and transaction tracking. |
 | **Future Goal** | Build advanced **AI + IoT integrated systems** |
 
 ---
@@ -80,7 +68,7 @@ Node.js<br/>Express<br/>Flask
 </td>
 
 <td align="center">
-MongoDB
+MYSQL
 </td>
 
 <td align="center">
@@ -99,11 +87,11 @@ Git<br/>GitHub<br/>VS Code
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Biraj021&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biraj021&theme=tokyonight"/>
 </p>
 
 ---
