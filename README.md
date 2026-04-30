@@ -60,7 +60,7 @@
 
 <tr>
 <td align="center">
-HTML<br/>CSS<br/>JavaScript<br/>React<br/>Tailwind
+HTML<br/>CSS<br/>JavaScript
 </td>
 
 <td align="center">
